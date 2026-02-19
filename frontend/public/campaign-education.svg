@@ -1,0 +1,11 @@
+<svg width="800" height="500" viewBox="0 0 800 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="500" rx="24" fill="#0F172A"/>
+  <circle cx="160" cy="160" r="100" fill="#164E63"/>
+  <circle cx="640" cy="110" r="70" fill="#0E7490"/>
+  <rect x="120" y="270" width="560" height="140" rx="16" fill="#1E293B"/>
+  <rect x="150" y="300" width="260" height="20" rx="10" fill="#22D3EE"/>
+  <rect x="150" y="336" width="430" height="16" rx="8" fill="#334155"/>
+  <rect x="150" y="360" width="380" height="16" rx="8" fill="#334155"/>
+  <rect x="150" y="384" width="320" height="16" rx="8" fill="#334155"/>
+  <text x="150" y="210" fill="#E2E8F0" font-size="38" font-family="Arial">Education Campaign</text>
+</svg>

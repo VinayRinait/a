@@ -1,0 +1,12 @@
+<svg width="800" height="500" viewBox="0 0 800 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="500" rx="24" fill="#0B1120"/>
+  <rect x="80" y="80" width="640" height="340" rx="24" fill="#1E293B"/>
+  <circle cx="230" cy="250" r="70" fill="#0891B2"/>
+  <path d="M230 205V295" stroke="#E0F2FE" stroke-width="18" stroke-linecap="round"/>
+  <path d="M185 250H275" stroke="#E0F2FE" stroke-width="18" stroke-linecap="round"/>
+  <rect x="340" y="180" width="300" height="20" rx="10" fill="#22D3EE"/>
+  <rect x="340" y="220" width="250" height="14" rx="7" fill="#475569"/>
+  <rect x="340" y="246" width="220" height="14" rx="7" fill="#475569"/>
+  <rect x="340" y="272" width="280" height="14" rx="7" fill="#475569"/>
+  <text x="340" y="340" fill="#BAE6FD" font-size="28" font-family="Arial">Medical Aid Progress</text>
+</svg>
